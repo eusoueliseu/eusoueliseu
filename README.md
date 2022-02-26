@@ -7,7 +7,6 @@
     - Machine Learning
     - Data Viz
 
-- 📚 Posto meus estudos neste notebook aqui: https://github.com/eusoueliseu/Python-Pandas
 
 - 📫 Bora bater um papo:
     - Linkedin: https://www.linkedin.com/in/eliseu-ssantos/
